@@ -1,0 +1,3 @@
+
+This repository contains implementations of machine learning algorithms created from scratch, without using machine learning libraries like Scikit-Learn or TensorFlow...
+It is intended to demonstrate a deep understanding of how these algorithms work under the hood.
